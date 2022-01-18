@@ -1,0 +1,14 @@
+{
+  "appTitle": "Localization Practice",
+  "@appTitle": {
+    "description": "This is my app title"
+  },
+  "myName": "Rifat Hossain",
+  "@myName": {
+    "description": "This is my name"
+  },
+  "myJob": "Flutter App Developer",
+  "@myJob": {
+    "description": "This is my job"
+  }
+}
